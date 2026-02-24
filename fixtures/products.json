@@ -1,0 +1,170 @@
+[
+{
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+        "title": "Игра Far Cry 3",
+        "slug": "far-cry-3",
+        "price": "1299.00",
+        "discount": 0,
+        "description": "на острове.",
+        "quantity": 13,
+        "image": "products_images/far_cry_3.jpg",
+        "category": 2
+    }
+},
+{
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+        "title": "Игра Diablo3",
+        "slug": "diablo-3",
+        "price": "999.00",
+        "discount": 0,
+        "description": "Нужно победить владык преисподней",
+        "quantity": 2,
+        "image": "",
+        "category": 3
+    }
+},
+{
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+        "title": "Fahrenheit",
+        "slug": "fahrenheit",
+        "price": "499.00",
+        "discount": 25,
+        "description": "Становится холодно на земле. Давай разбираться",
+        "quantity": 67,
+        "image": "products_images/fahrenheit.jpg",
+        "category": 4
+    }
+},
+{
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+        "title": "Fallout New Vegas",
+        "slug": "fallout-new-vegas",
+        "price": "499.00",
+        "discount": 0,
+        "description": "Казино на осколках мира",
+        "quantity": 5,
+        "image": "products_images/fallout.jpg",
+        "category": 2
+    }
+},
+{
+    "model": "products.product",
+    "pk": 5,
+    "fields": {
+        "title": "Игра God of war",
+        "slug": "god-of-war",
+        "price": "1499.00",
+        "discount": 0,
+        "description": "Чем занимается убийца богов в Скандинавии",
+        "quantity": 88,
+        "image": "",
+        "category": 4
+    }
+},
+{
+    "model": "products.product",
+    "pk": 6,
+    "fields": {
+        "title": "Mafia 2",
+        "slug": "mafia-2",
+        "price": "799.00",
+        "discount": 0,
+        "description": "Игра в которой ты вписываешься в мафиозные разборки",
+        "quantity": 1,
+        "image": "products_images/mafia2.jpg",
+        "category": 7
+    }
+},
+{
+    "model": "products.product",
+    "pk": 7,
+    "fields": {
+        "title": "Max Payne 3",
+        "slug": "max-payne-3",
+        "price": "699.00",
+        "discount": 50,
+        "description": "Он стар, да удал",
+        "quantity": 6,
+        "image": "",
+        "category": 2
+    }
+},
+{
+    "model": "products.product",
+    "pk": 8,
+    "fields": {
+        "title": "Red dead redemption 2",
+        "slug": "red-dead-redemption-2",
+        "price": "1399.00",
+        "discount": 4,
+        "description": "Как оно там на диком западе",
+        "quantity": 54,
+        "image": "products_images/rdr2.jpg",
+        "category": 4
+    }
+},
+{
+    "model": "products.product",
+    "pk": 9,
+    "fields": {
+        "title": "Resident evil 2",
+        "slug": "resident-evil-2",
+        "price": "1099.00",
+        "discount": 0,
+        "description": "Побегаем от зомби, игра",
+        "quantity": 71,
+        "image": "",
+        "category": 7
+    }
+},
+{
+    "model": "products.product",
+    "pk": 10,
+    "fields": {
+        "title": "The last of us",
+        "slug": "the-last-of-us",
+        "price": "1699.00",
+        "discount": 0,
+        "description": "Через всю Америку в постапокалиптическом мире",
+        "quantity": 4,
+        "image": "",
+        "category": 4
+    }
+},
+{
+    "model": "products.product",
+    "pk": 11,
+    "fields": {
+        "title": "Uncharted 3",
+        "slug": "uncharted-3",
+        "price": "899.00",
+        "discount": 15,
+        "description": "Современный Индиана Джонс",
+        "quantity": 7,
+        "image": "",
+        "category": 4
+    }
+},
+{
+    "model": "products.product",
+    "pk": 12,
+    "fields": {
+        "title": "The witcher 3",
+        "slug": "the-witcher-3",
+        "price": "1199.00",
+        "discount": 10,
+        "description": "Игра Геральд Геральд",
+        "quantity": 67,
+        "image": "products_images/witcher3_EioSJkg.jpg",
+        "category": 5
+    }
+}
+]

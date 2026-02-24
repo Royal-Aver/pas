@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block css %}
+    <link rel="stylesheet" href="{% static "deps/css/my_footer_css.css" %}">
+{% endblock  %}
+
+{% block content %}
+    <div class="container">
+        <div class="row mt-1">
+            <div class="col-lg-2">
+                <!-- Пустой блок на Ваше усмотрение -->
+            </div>
+            <div class="col-lg-10">
+                <!-- Контент на странице -->
+                <h1 class="mt-5 pt-5 text-white"><strong>Магазин компьютерных игр</strong></h1>
+            </div>
+        </div>
+    </div>
+{% endblock  %}
+
+{% block footer %}
+    <footer class="py-4 bg-success bg-opacity-75">
+        <div class="container">
+            <p class="m-0 text-center text-white">Copyright &copy; Gods Boss Product 2025</p>
+        </div>
+    </footer>
+{% endblock  %}

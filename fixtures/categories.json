@@ -1,0 +1,66 @@
+[
+{
+    "model": "products.category",
+    "pk": 2,
+    "fields": {
+        "name": "Шутеры",
+        "slug": "shootery"
+    }
+},
+{
+    "model": "products.category",
+    "pk": 3,
+    "fields": {
+        "name": "RPG",
+        "slug": "rpg"
+    }
+},
+{
+    "model": "products.category",
+    "pk": 4,
+    "fields": {
+        "name": "Приключения",
+        "slug": "priklyucheniya"
+    }
+},
+{
+    "model": "products.category",
+    "pk": 5,
+    "fields": {
+        "name": "Симуляторы",
+        "slug": "simulyatory"
+    }
+},
+{
+    "model": "products.category",
+    "pk": 6,
+    "fields": {
+        "name": "Гонки",
+        "slug": "gonki"
+    }
+},
+{
+    "model": "products.category",
+    "pk": 7,
+    "fields": {
+        "name": "Хорорры",
+        "slug": "hororry"
+    }
+},
+{
+    "model": "products.category",
+    "pk": 8,
+    "fields": {
+        "name": "Все игры",
+        "slug": "all"
+    }
+},
+{
+    "model": "products.category",
+    "pk": 9,
+    "fields": {
+        "name": "Интерактивное кино",
+        "slug": "interaktivnoe-kino"
+    }
+}
+]
